@@ -1,7 +1,7 @@
 {
-  "name": "box-locales",
-  "version": "0.0.1",
-  "description": "Locales for Box FE projects",
+  "name": "@box/languages",
+  "version": "1.0.0",
+  "description": "Supported languages for Box projects",
   "author": "Box (https://www.box.com/)",
   "license": "Apache-2.0",
   "homepage": "https://developer.box.com",
@@ -11,6 +11,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/box/box-locales"
+    "url": "https://github.com/box/box-languages"
   }
 }
