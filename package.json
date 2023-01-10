@@ -6,6 +6,13 @@
   "license": "Apache-2.0",
   "homepage": "https://developer.box.com",
   "main": "index.js",
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
