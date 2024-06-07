@@ -1,6 +1,6 @@
 {
   "name": "@box/languages",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Supported languages for Box projects",
   "author": "Box (https://www.box.com/)",
   "license": "Apache-2.0",
